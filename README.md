@@ -2,5 +2,11 @@
 This repository contains my potfolio projects
 
 The Projects are following:
-1) Deep Neural Networks from Scratch using Numpy. 
-(This project shows my understanding of neural networks and python language in general and Numpy in specific.)
+<h3>1) Deep Neural Networks from Scratch using Numpy.</h3>
+(This project shows my expertise in neural networks, python language in general, and Numpy in specific.)
+<br></br>
+<h3>2) ResNet_50 from Scratch using Tensorflow2.0. </h3>
+(This project shows my expertise in complex deep learning models such as ResNet50 and Tensorflow)
+<br></br>
+<h3>3) Inception_V3 based image recognition using Tensorflow2.0. </h3>
+(This project shows my expertise in customizing complex deep learning models such as Inception_v3, data augmentation, and memory efficient image processing using Tensorflow)
