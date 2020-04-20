@@ -10,3 +10,5 @@ The Projects are following:
 (This project shows my expertise in customizing complex deep learning models such as Inception_v3, data augmentation, and memory efficient image processing using Tensorflow)<br>
 <h3>4) Data Visualization Capstone using Python </h3>
 (This project shows my expertise in concepts related to data visualization and ability to do customized, advanced, and interactive visualization in python using matplotlib, seaborn, plotly, and folium.)
+<h3>4) Data Analysis Capstone using Python </h3>
+(This project shows my expertise in concepts related to (data wrangling; exploratory data analysis; model development, evaluation, and refinement) and ability to apply them using well known python data analysis packages such as pandas and scikit learn.
